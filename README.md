@@ -73,3 +73,21 @@ spam_email_classifier.ipynb
 
 Run all cells.
 
+ Learning Outcomes
+
+NLP basics
+
+Feature engineering for text data
+
+Machine learning model training
+
+Model evaluation techniques
+
+Real-world classification problem solving
+
+ Author
+
+Lalima Singh
+B.Tech Electrical & Computer Engineering
+Data Science & AI Enthusiast
+
